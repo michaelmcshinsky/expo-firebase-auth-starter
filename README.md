@@ -1,23 +1,5 @@
-# expo-firebase-auth-starter
+> **Archived**
+>
+> This fork is no longer tracked or maintained.
 
-## Starter project for using:
-- React Native
-- Expo
-- Firebase
-
-## Setup:
-
-- Create a `constants/ApiKeys.js` file and put your actual firebase config values:
-```
-export default {
-  FirebaseConfig: {
-    apiKey:      "",
-    authDomain:  "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: ""
-  }
-}
-```
-- Run `npm install`
+# expo-firebase-auth-starter  ## Starter project for using: - React Native - Expo - Firebase  ## Setup:  - Create a `constants/ApiKeys.js` file and put your actual firebase config values: ``` export default {   FirebaseConfig: {     apiKey:      "",     authDomain:  "",     databaseURL: "",     projectId: "",     storageBucket: "",     messagingSenderId: ""   } } ``` - Run `npm install`
